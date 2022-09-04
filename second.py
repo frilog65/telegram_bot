@@ -6,7 +6,7 @@ import time
 import pickle
 
 # bot1 = telebot.TeleBot('5580779124:AAGJrUdTyLDhItFhWnj3oz_FLNOP_L9dEU4')
-bot2 = telebot.TeleBot('5432120976:AAGgPJSyn4GAZPVisBy7qvvMiwsbdh63xtE')
+bot2 = telebot.TeleBot('token2')
 
 
 @bot2.message_handler(commands=['start'])
